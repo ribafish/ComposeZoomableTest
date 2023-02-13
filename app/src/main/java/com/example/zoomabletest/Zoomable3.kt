@@ -32,6 +32,8 @@ import kotlin.math.sin
 import kotlin.math.sqrt
 
 /**
+ * Note: Copied from https://github.com/Mr-Pine/Zoomables
+ *
  * Creates a composable that wraps a given [Composable] and adds zoom, pan, double tap and swipe functionality
  *
  *
